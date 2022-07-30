@@ -1,5 +1,5 @@
 <h1 align="center">😄 Hello There! I am Kitsos Orfanopoulos</h1>
-<h4 align="center">I am a graduate student in ECE⚡, NTUA🎓 & the director of the Christian Youth Foundation "Pantokrator" in Paleo Faliro</h4>
+<h4 align="center">I am a graduate student in ECE⚡, NTUA🎓 & the director of the CY Foundation "Pantokrator" in Paleo Faliro</h4>
 
 
 - 🔭 I’m currently working on **my senior thesis**
