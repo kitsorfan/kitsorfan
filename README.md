@@ -6,7 +6,7 @@
 
 - 📫 Spam me on **kitsorfan@protonmail.com**
 
-- 🔍Stalk me on LinkedIn: **https://www.linkedin.com/in/kitsorfan/**
+- 🔍Stalk me on <a href="https://www.linkedin.com/in/kitsorfan/">LinkedIn</a> ****
 
 
 <h3 align="left">Languages and Tools:</h3>
