@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 Email me to **kitsorfan@protonmail.com**
+- 📫 Spam me on **kitsorfan@protonmail.com**
 
 - 🔍Stalk me on LinkedIn: **https://www.linkedin.com/in/kitsorfan/**
 
