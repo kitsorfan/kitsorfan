@@ -2,7 +2,7 @@
 <h4 align="center"> I am a Reservist Second Lieutenant in Marine Special Forces, Greek Army. I am currently serving my military obligations, but I 'll soon return to my basement to never see the sun again writing code. </h4>
 <h4 align="center">I graduated from ECE⚡, NTUA🎓</h4>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Tiled**
 
 - 📫 Spam me on **kitsorfan@protonmail.com**
 
