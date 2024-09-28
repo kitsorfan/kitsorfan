@@ -2,7 +2,7 @@
 <h4 align="center"> I am a Software engineer at Veltiston.AI - Greece </h4>
 <h4 align="center">I graduated from ECE⚡, NTUA🎓</h4>
 
-- 🌱 I’m currently learning **Tiled**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 Spam me on **kitsorfan@protonmail.com**
 
