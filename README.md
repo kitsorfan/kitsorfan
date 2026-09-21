@@ -83,9 +83,6 @@ Built with **React 19 · three.js · @react-three/fiber · TypeScript · Vite ·
 
 ---
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsorfan&show_icons=true&theme=algolia&count_private=true&line_height=40)](https://github.com/kitsorfan?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsorfan&theme=algolia&langs_count=5&hide=html,css,ejs,jupyter%20notebook)](https://github.com/kitsorfan?tab=repositories) |
-|:-:|:-:|
-
 <p align="center">
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=kitsorfan&color=blue&style=flat&label=visitors" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/kitsorfan?color=green" />
