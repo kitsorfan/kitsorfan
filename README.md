@@ -9,17 +9,19 @@
 
 ---
 
-- 🏥 I lead the **Nurse Scheduling platform** at Veltiston.AI, live in major U.S. hospitals — concept to production, with teams across Greece, Boston and Morocco.
+* 🏥 I lead the **Nurse Scheduling platform** at Veltiston.AI, live in major U.S. hospitals — concept to production, with teams across Greece, Boston and Morocco.
 
-- 🤖 Currently working with **Spring AI, RAG and agentic AI**, plus SMART on FHIR integrations inside Epic EHR.
+* 🤖 Currently working with **Spring AI, RAG and agentic AI**, plus SMART on FHIR integrations inside Epic EHR.
 
-- 📄 Published: *[An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time](https://arxiv.org/)* — arXiv, Cornell University, 2025.
+* 📄 Published: *[An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time](https://arxiv.org/)* — arXiv, Cornell University, 2025.
 
-- 🎮 Ask me about **[Kitsos Island](#-kitsos-island)**, my CV rebuilt as a Pokémon-style 3D game you can walk around.
+* 🎮 Ask me about **[Kitsos Island](#-kitsos-island)**, my CV rebuilt as a Pokémon-style 3D game you can walk around.
 
-- 📫 Spam me on **kitsorfan@protonmail.com**
+* 🌐 Explore my **[personal website](https://www.kitsorfan.com)** — projects, experience and Kitsos Island.
 
-- 🔍 Stalk me on **<a href="https://www.linkedin.com/in/kitsorfan/">LinkedIn</a>**
+* 📫 Spam me on **[kitsorfan@protonmail.com](mailto:kitsorfan@protonmail.com)**
+
+* 🔍 Stalk me on **<a href="https://www.linkedin.com/in/kitsorfan/">LinkedIn</a>**
 
 <h3 align="left">What I work with day to day:</h3>
 
@@ -45,17 +47,17 @@
 <details>
 <summary><b>The full stack, grouped</b></summary>
 
-| Area | Tools |
-| ---- | ----- |
-| **Languages** | Java (17–25) · TypeScript · JavaScript · Python · C++ |
-| **Backend** | Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST · Microservices |
-| **AI** | Spring AI · Ollama · RAG · Agentic AI · Pose estimation |
-| **Frontend** | React · Angular · Tailwind CSS · three.js |
-| **Data** | MySQL · Flyway |
-| **Cloud & DevOps** | AWS (EC2, S3, SES, SNS) · Docker · Podman · Jenkins · GitLab CI · Bitbucket Pipelines |
-| **Observability** | Grafana · Graylog · ELK · Sentry |
-| **Testing** | JUnit · Mockito · JaCoCo · Vitest |
-| **Healthcare & security** | SMART on FHIR · Epic EHR · UKG · SAML 2.0 SSO · ADFS · JWT · HIPAA |
+| Area                      | Tools                                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------- |
+| **Languages**             | Java (17–25) · TypeScript · JavaScript · Python · C++                                 |
+| **Backend**               | Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST · Microservices    |
+| **AI**                    | Spring AI · Ollama · RAG · Agentic AI · Pose estimation                               |
+| **Frontend**              | React · Angular · Tailwind CSS · three.js                                             |
+| **Data**                  | MySQL · Flyway                                                                        |
+| **Cloud & DevOps**        | AWS (EC2, S3, SES, SNS) · Docker · Podman · Jenkins · GitLab CI · Bitbucket Pipelines |
+| **Observability**         | Grafana · Graylog · ELK · Sentry                                                      |
+| **Testing**               | JUnit · Mockito · JaCoCo · Vitest                                                     |
+| **Healthcare & security** | SMART on FHIR · Epic EHR · UKG · SAML 2.0 SSO · ADFS · JWT · HIPAA                    |
 
 </details>
 
@@ -74,16 +76,18 @@ Built with **React 19 · three.js · @react-three/fiber · TypeScript · Vite ·
 
 ### 🧭 Where I have been
 
-| | |
-| ---- | ----- |
-| **2026 – now** | Senior Software Engineer & Technical Lead, **Veltiston.AI** — an AI healthcare startup founded by MIT Professor Dimitris Bertsimas |
-| **2024 – 2026** | Full-stack Software Engineer, **Veltiston.AI** — one of the first engineers |
-| **2023 – 2024** | DevOps Engineer, **IBM** — the Cosmos Project at the National Bank of Greece |
-| **2017 – 2022** | MEng ECE, **NTUA** — thesis graded with distinction, later published |
+|                 |                                                                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **2026 – now**  | Senior Software Engineer & Technical Lead, **Veltiston.AI** — an AI healthcare startup founded by MIT Professor Dimitris Bertsimas |
+| **2024 – 2026** | Full-stack Software Engineer, **Veltiston.AI** — one of the first engineers                                                        |
+| **2023 – 2024** | DevOps Engineer, **IBM** — the Cosmos Project at the National Bank of Greece                                                       |
+| **2017 – 2022** | MEng ECE, **NTUA** — thesis graded with distinction, later published                                                               |
 
 ---
 
 <p align="center">
+	<a href="https://www.kitsorfan.com"><img src="https://img.shields.io/badge/🌐_Website-kitsorfan.com-blue?style=flat" alt="Website" /></a>
+	<a href="https://www.linkedin.com/in/kitsorfan/"><img src="https://img.shields.io/badge/LinkedIn-kitsorfan-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=kitsorfan&color=blue&style=flat&label=visitors" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/kitsorfan?color=green" />
 	<img alt="Stars" src="https://img.shields.io/github/stars/kitsorfan?color=yellow" />
